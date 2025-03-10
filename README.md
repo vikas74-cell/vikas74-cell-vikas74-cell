@@ -26,4 +26,4 @@ I’m passionate about turning data into actionable insights. I specialize in:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikas74-cell&theme=radical)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vikas74-cell&theme=radical)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vikas74-cell&theme=react-dark)
+
