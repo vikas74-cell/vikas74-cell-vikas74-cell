@@ -1,6 +1,6 @@
 # Hi, I'm Vikash Kumar Jha 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikas74-cell&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas74-cell&layout=compact&theme=radical)
+2. [COVID-19 Trends](https://github.com/vikas74-cell/covid-analysis)  
+   _Visualized pandemic data to track cases, deaths, and recoveries._
 ## Aspiring Data Analyst
 I’m passionate about turning data into actionable insights. I specialize in:
 - **Data Cleaning**: Preparing messy datasets for analysis.
