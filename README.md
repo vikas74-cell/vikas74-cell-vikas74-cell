@@ -24,5 +24,6 @@ I’m passionate about turning data into actionable insights. I specialize in:
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikas74-cell&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas74-cell&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikas74-cell&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vikas74-cell&theme=radical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vikas74-cell&theme=react-dark)
